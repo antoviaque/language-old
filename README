@@ -1,0 +1,10 @@
+
+To download all gutenberg texts for a given language:
+
+    $ wget -mH 'http://www.gutenberg.org/robot/harvest?langs[]=pt&filetypes[]=txt'
+
+Watching a YouTube video slowly:
+
+1. http://www.youtube.com/html5
+2. http://www.youtube.com/watch_popup?v=ruN_LR60ZfQ&vq=large
+
