@@ -1,0 +1,85 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="961" measuredH="620" mockupW="899" mockupH="586">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="62" y="34" w="899" h="586" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Language%20Learning%0Ahttp%3A//lemonde.fr/visite-hollande-chine</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Canvas" x="65" y="106" w="892" h="33" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13421772</color>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="77" y="111" w="-1" h="-1" measuredW="66" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Bookmarks</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Paragraph" x="301" y="451" w="398" h="141" measuredW="200" measuredH="80" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>language2_lemonde%26bm%3Blanguage2_lemonde.bmml%26bm%3Blanguage2_lemonde.bmml%26bm%3Blanguage2_lemonde.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22239%2C417%2C637%2C558%22%20href%3D%22language2_lemonde.bmml%22%20alt%3D%22language2_lemonde%22%20id%3D%229%22/%3E</map>
+        <size>13</size>
+        <text>Le%20pr%E9sident%20Fran%E7ois%20Hollande%20a%20%22sacrifi%E9%20les%20droits%20de%20l%27Homme%20au%20profit%20des%20int%E9r%EAts%20%E9conomiques%22%20lors%20de%20sa%20visite%20en%20Chine%2C%20a%20jug%E9%20jeudi%20un%20responsable%20du%20comit%E9%20international%20de%20soutien%20au%20dissident%20Liu%20Xiaobo%2C%20prix%20Nobel%20de%20la%20paix%2C%20emprisonn%E9%20depuis%202009.%0A%20%0ALe%20chef%20de%20l%27Etat%20est%20en%20visite%20jeudi%20et%20vendredi%20en%20Chine%2C%20o%F9%20il%20est%20venu%20plaider%20pour%20un%20r%E9%E9quilibrage%20des%20%E9changes%20commerciaux.%20%22Nous%20assistons%20%E0%20la%20r%E9p%E9tition%20d%27un%20sc%E9nario%20qui%20s%27est%20d%E9j%E0%20d%E9roul%E9%20de%20nombreuses%20fois.%20Les%20droits%20de%20l%27Homme%20sont%20sacrifi%E9s%20au%20profit%20des%20int%E9r%EAts%20%E9conomiques.%20Les%20chefs%20d%27Etat%20europ%E9ens%20se%20d%E9placent%20en%20Chine%20pour%20l%27argent%2C%20pas%20pour%20promouvoir%20les%20droits%20de%20l%27Homme%20du%20peuple%20chinois%22%2C%20a%20d%E9nonc%E9%20Emmanouil%20Athanasiou%2C%20coordinateur%20du%20comit%E9%20international%20de%20soutien%20%E0%20Liu%20Xiaobo.</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::SubTitle" x="342" y="227" w="-1" h="-1" measuredW="299" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Visite%20de%20Hollande%20en%20Chine</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Link" x="164" y="113" w="-1" h="-1" measuredW="46" measuredH="19" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Lookup%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Title" x="383" y="160" w="-1" h="-1" measuredW="217" measuredH="43" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Le%20Monde.fr</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Image" x="298" y="265" w="405" h="171" measuredW="534" measuredH="267" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/3166888_3_1dec_francois-hollande-et-xi-jinping-le-25-avril-a_483240647a07e8057c276e0e1f3749fc.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::ModalScreen" x="567" y="447" w="109" h="22" measuredW="320" measuredH="240" zOrder="8" locked="false" isInGroup="-1"/>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Tooltip" x="290" y="176" w="317" h="271" measuredW="186" measuredH="0" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20</text>
+        <tooltipDirection>SE</tooltipDirection>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::SubTitle" x="301" y="184" w="-1" h="-1" measuredW="110" measuredH="19" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>%22Human%20rights%22</text>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::Image" x="301" y="210" w="93" h="121" measuredW="1218" measuredH="1518" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/ddch.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Image" x="394" y="210" w="106" h="121" measuredW="220" measuredH="289" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Declaration_of_the_Rights_of_Man_and_of_the_Citizen_in_1789.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Image" x="500" y="210" w="91" h="121" measuredW="292" measuredH="400" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/droits-de-lhomme-et-libert%25C3%2583%25C2%25A9s.gif</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Paragraph" x="305" y="342" w="286" h="88" measuredW="200" measuredH="80" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>12</size>
+        <text>*droit*%20-%20Fondement%20des%20r%E8gles%2C%20des%20codes%2C%20qui%20r%E9gissent%20les%20rapports%20des%20hommes%20dans%20la%20soci%E9t%E9.%0A*de*%20-%20Marque%20un%20ablatif.%20Mot%20indiquant%20la%20provenance%2C%20l%u2019origine.%0A*homme*%20-%20%CAtre%20humain%20m%E2le%20%3B%20par%20opposition%20%E0%20la%20femme.%20</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

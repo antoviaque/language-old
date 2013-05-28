@@ -10,8 +10,8 @@ import urllib
 
 # Globals ###########################################################
 
-FORVO_API_KEY = 'xxx'
-BING_API_KEY = 'xxx'
+FORVO_API_KEY = '71d006a127d6e0ac5f23b30b166bd8e2'
+BING_API_KEY = 'WakrxL9Wuhujh6S1iJ5uF/nnx365fsgJQUe0tUquoCM='
 
 BING_IMAGE_SEARCH_URL = 'https://api.datamarket.azure.com/Bing/Search/v1/Composite?Sources=%27image%27&Query=%27{expression}%27&Market=%27{market}%27&Adult=%27Off%27&$format=json'
 FORVO_SEARCH_URL = 'http://apifree.forvo.com/key/{api_key}/format/json/action/word-pronunciations/word/{expression}/language/{language}/'

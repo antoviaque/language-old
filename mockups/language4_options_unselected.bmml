@@ -1,0 +1,96 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="584" measuredH="898" mockupW="501" mockupH="858">
+  <controls>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::iPhone" x="83" y="40" w="501" h="858" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::ModalScreen" x="137" y="204" w="386" h="556" measuredW="320" measuredH="240" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="508" y="206" w="-1" h="550" measuredW="16" measuredH="100" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::SubTitle" x="165" y="224" w="-1" h="-1" measuredW="79" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Display</text>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Label" x="185" y="278" w="-1" h="-1" measuredW="69" measuredH="22" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>Translation</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Switch" x="399" y="277" w="-1" h="-1" measuredW="68" measuredH="28" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>language4_options%26bm%3Blanguage4_options.bmml%26bm%3Blanguage4_options.bmml%26bm%3Blanguage4_options.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22316%2C237%2C384%2C265%22%20href%3D%22language4_options.bmml%22%20alt%3D%22language4_options%22%20id%3D%2240%22/%3E</map>
+        <onOffState>off</onOffState>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Label" x="185" y="320" w="-1" h="-1" measuredW="48" measuredH="22" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>Images</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Switch" x="399" y="319" w="-1" h="-1" measuredW="68" measuredH="28" zOrder="7" locked="false" isInGroup="-1"/>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Label" x="185" y="362" w="-1" h="-1" measuredW="119" measuredH="22" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>Definitions%20%26%20audio</text>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::Switch" x="399" y="361" w="-1" h="-1" measuredW="68" measuredH="28" zOrder="9" locked="false" isInGroup="-1"/>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::SubTitle" x="165" y="420" w="-1" h="-1" measuredW="187" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cards%20generation</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::Label" x="185" y="474" w="211" h="-1" measuredW="199" measuredH="22" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>Send%20new%20cards%20by%20email%20every</text>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::ComboBox" x="398" y="473" w="-1" h="-1" measuredW="62" measuredH="24" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>week</text>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::Label" x="184" y="512" w="211" h="-1" measuredW="44" measuredH="22" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>Format</text>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::ComboBox" x="397" y="511" w="-1" h="-1" measuredW="56" measuredH="24" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Anki</text>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::Button" x="148" y="678" w="353" h="35" measuredW="52" measuredH="27" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>language4_result_hidden%26bm%3Blanguage4_result_hidden.bmml%26bm%3Blanguage4_result_hidden.bmml%26bm%3Blanguage4_result_hidden.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2265%2C638%2C418%2C673%22%20href%3D%22language4_result_hidden.bmml%22%20alt%3D%22language4_result_hidden%22%20id%3D%2255%22/%3E</map>
+        <text>Save</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Button" x="148" y="715" w="353" h="35" measuredW="64" measuredH="27" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>language4_result%26bm%3Blanguage4_result.bmml%26bm%3Blanguage4_result.bmml%26bm%3Blanguage4_result.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2265%2C675%2C418%2C710%22%20href%3D%22language4_result.bmml%22%20alt%3D%22language4_result%22%20id%3D%2256%22/%3E</map>
+        <text>Cancel</text>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::SubTitle" x="165" y="567" w="-1" h="-1" measuredW="89" measuredH="27" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Account</text>
+      </controlProperties>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::Label" x="185" y="615" w="211" h="-1" measuredW="146" measuredH="22" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>xavier@antoviaque.org</text>
+      </controlProperties>
+    </control>
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::Button" x="399" y="613" w="-1" h="-1" measuredW="63" measuredH="27" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Logout</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

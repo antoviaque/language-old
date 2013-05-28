@@ -1,0 +1,183 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="961" measuredH="780" mockupW="899" mockupH="746">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="62" y="34" w="899" h="746" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Language%20Learning%0Ahttp%3A//language.com/</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Canvas" x="65" y="106" w="892" h="33" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13421772</color>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="77" y="111" w="-1" h="-1" measuredW="66" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Bookmarks</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Arrow" x="171" y="158" w="97" h="238" measuredW="150" measuredH="100" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.25</backgroundAlpha>
+        <curvature>-1</curvature>
+        <direction>top</direction>
+        <rightArrow>false</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::Paragraph" x="158" y="188" w="338" h="103" measuredW="200" measuredH="80" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>right</align>
+        <size>24</size>
+        <text>Translate%20%0Asections%20of%20text%20%26%20words%20%0Awhile%20you%20browse%20the%20web%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="110" controlTypeID="com.balsamiq.mockups::Paragraph" x="204" y="313" w="201" h="60" measuredW="200" measuredH="80" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Drag%20%26%20drop%20the%20following%20button%20to%20your%20browser%20bookmarks%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="111" controlTypeID="com.balsamiq.mockups::IconLabel" x="289" y="360" w="-1" h="-1" measuredW="95" measuredH="63" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>language3_home_bookmarkletadded%26bm%3Blanguage3_home_bookmarkletadded.bmml%26bm%3Blanguage3_home_bookmarkletadded.bmml%26bm%3Blanguage3_home_bookmarkletadded.bmml</href>
+        <icon>AddCommentIcon%7Clarge</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22227%2C326%2C322%2C389%22%20href%3D%22language3_home_bookmarkletadded.bmml%22%20alt%3D%22language3_home_bookmarkletadded%22%20id%3D%22111%22/%3E</map>
+        <text>Inline%20Translator</text>
+      </controlProperties>
+    </control>
+    <control controlID="112" controlTypeID="com.balsamiq.mockups::Link" x="306" y="480" w="-1" h="-1" measuredW="77" measuredH="22" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>lemonde.fr</text>
+      </controlProperties>
+    </control>
+    <control controlID="113" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="206" y="558" w="227" h="148" measuredW="450" measuredH="400" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Language%20Learning%0Ahttp%3A//language.com/</text>
+      </controlProperties>
+    </control>
+    <control controlID="115" controlTypeID="com.balsamiq.mockups::Link" x="299" y="638" w="-1" h="-1" measuredW="95" measuredH="19" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Inline%20Translator</text>
+      </controlProperties>
+    </control>
+    <control controlID="116" controlTypeID="com.balsamiq.mockups::Label" x="216" y="635" w="70" h="-1" measuredW="66" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Bookmarks</text>
+      </controlProperties>
+    </control>
+    <control controlID="117" controlTypeID="com.balsamiq.mockups::Icon" x="332" y="647" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>CursorIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="118" controlTypeID="com.balsamiq.mockups::Title" x="146" y="313" w="-1" h="-1" measuredW="43" measuredH="75" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>72</size>
+        <text>1.</text>
+      </controlProperties>
+    </control>
+    <control controlID="119" controlTypeID="com.balsamiq.mockups::Title" x="131" y="461" w="-1" h="-1" measuredW="61" measuredH="75" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>72</size>
+        <text>2.</text>
+      </controlProperties>
+    </control>
+    <control controlID="120" controlTypeID="com.balsamiq.mockups::Title" x="526" y="502" w="-1" h="-1" measuredW="59" measuredH="75" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>72</size>
+        <text>3.</text>
+      </controlProperties>
+    </control>
+    <control controlID="122" controlTypeID="com.balsamiq.mockups::Paragraph" x="206" y="462" w="243" h="109" measuredW="200" measuredH="80" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Go%20to%20any%20website%20on%20the%20Web%20%28for%20example%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%29%20and%20click%20on%20the%20bookmark%20you%20just%20added</text>
+      </controlProperties>
+    </control>
+    <control controlID="123" controlTypeID="com.balsamiq.mockups::Paragraph" x="611" y="510" w="332" h="58" measuredW="200" measuredH="80" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Select%20a%20word%20or%20an%20expression%20-%20the%20translation%20will%20appear%20directly%20along%20the%20text%2C%20with%20images%20and%20definitions.</text>
+      </controlProperties>
+    </control>
+    <control controlID="125" controlTypeID="com.balsamiq.mockups::Canvas" x="526" y="188" w="361" h="256" measuredW="100" measuredH="70" zOrder="17" locked="false" isInGroup="-1"/>
+    <control controlID="126" controlTypeID="com.balsamiq.mockups::SubTitle" x="576" y="224" w="249" h="-1" measuredW="299" measuredH="27" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Visite%20de%20Hollande%20en%20Chine</text>
+      </controlProperties>
+    </control>
+    <control controlID="127" controlTypeID="com.balsamiq.mockups::Image" x="540" y="209" w="338" h="150" measuredW="534" measuredH="267" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/3166888_3_1dec_francois-hollande-et-xi-jinping-le-25-avril-a_483240647a07e8057c276e0e1f3749fc.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="128" controlTypeID="com.balsamiq.mockups::Tooltip" x="555" y="194" w="265" h="176" measuredW="160" measuredH="0" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20</text>
+        <tooltipDirection>SE</tooltipDirection>
+      </controlProperties>
+    </control>
+    <control controlID="129" controlTypeID="com.balsamiq.mockups::SubTitle" x="564" y="199" w="140" h="-1" measuredW="110" measuredH="19" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>%22Human%20rights%22</text>
+      </controlProperties>
+    </control>
+    <control controlID="130" controlTypeID="com.balsamiq.mockups::Image" x="564" y="216" w="77" h="79" measuredW="1218" measuredH="1518" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/ddch.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="131" controlTypeID="com.balsamiq.mockups::Image" x="642" y="216" w="89" h="79" measuredW="220" measuredH="289" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Declaration_of_the_Rights_of_Man_and_of_the_Citizen_in_1789.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="132" controlTypeID="com.balsamiq.mockups::Image" x="731" y="216" w="76" h="79" measuredW="292" measuredH="400" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/droits-de-lhomme-et-libert%25C3%2583%25C2%25A9s.gif</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="133" controlTypeID="com.balsamiq.mockups::Paragraph" x="566" y="301" w="238" h="57" measuredW="200" measuredH="80" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>12</size>
+        <text>*droit*%20-%20Fondement%20des%20r%E8gles%2C%20des%20codes%2C%20qui%20r%E9gissent%20les%20rapports%20des%20hommes%20dans%20la%20soci%E9t%E9.%0A*de*%20-%20Marque%20un%20ablatif.%20Mot%20indiquant%20la%20provenance%2C%20l%u2019origine.%0A*homme*%20-%20%CAtre%20humain%20m%E2le%20%3B%20par%20opposition%20%E0%20la%20femme.%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="134" controlTypeID="com.balsamiq.mockups::Paragraph" x="542" y="369" w="332" h="92" measuredW="200" measuredH="80" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>13</size>
+        <text>Le%20pr%E9sident%20Fran%E7ois%20Hollande%20a%20%22sacrifi%E9%20les%20droits%20de%20l%27Homme%20au%20profit%20des%20int%E9r%EAts%20%E9conomiques%22%20lors%20de%20sa%20visite%20en%20Chine%2C%20a%20jug%E9%20jeudi%20un%20responsable%20du%20comit%E9%20international%20de%20soutien%20au%20dissident%20Liu%20Xiaobo%2C%20prix%20Nobel%20de%20la%20paix%2C%20emprisonn%E9%20depuis%202009.%0A%20%0ALe%20chef%20de%20l%27Etat%20est%20en%20visite%20jeudi%20et%20vendredi%20en%20Chine%2C%20o%F9%20il%20est%20venu%20plaider%20pour%20un%20r%E9%E9quilibrage%20des%20%E9changes%20commerciaux.%20%22Nous%20assistons%20%E0%20la%20r%E9p%E9tition%20d%27un%20sc%E9nario%20qui%20s%27est%20d%E9j%E0%20d%E9roul%E9%20de%20nombreuses%20fois.%20Les%20droits%20de%20l%27Homme%20sont%20sacrifi%E9s%20au%20profit%20des%20int%E9r%EAts%20%E9conomiques.%20Les%20chefs%20d%27Etat%20europ%E9ens%20se%20d%E9placent%20en%20Chine%20pour%20l%27argent%2C%20pas%20pour%20promouvoir%20les%20droits%20de%20l%27Homme%20du%20peuple%20chinois%22%2C%20a%20d%E9nonc%E9%20Emmanouil%20Athanasiou%2C%20coordinateur%20du%20comit%E9%20international%20de%20soutien%20%E0%20Liu%20Xiaobo.</text>
+      </controlProperties>
+    </control>
+    <control controlID="135" controlTypeID="com.balsamiq.mockups::ModalScreen" x="809" y="367" w="61" h="14" measuredW="320" measuredH="240" zOrder="27" locked="false" isInGroup="-1"/>
+    <control controlID="136" controlTypeID="com.balsamiq.mockups::ModalScreen" x="542" y="382" w="52" h="14" measuredW="320" measuredH="240" zOrder="28" locked="false" isInGroup="-1"/>
+    <control controlID="137" controlTypeID="com.balsamiq.mockups::Canvas" x="206" y="629" w="227" h="33" measuredW="100" measuredH="70" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13421772</color>
+      </controlProperties>
+    </control>
+    <control controlID="138" controlTypeID="com.balsamiq.mockups::Image" x="546" y="635" w="170" h="84" measuredW="705" measuredH="344" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Google-Translate-Banner.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="139" controlTypeID="com.balsamiq.mockups::Image" x="766" y="635" w="121" h="91" measuredW="563" measuredH="463" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Wiktionary-logo_wpstyle-en_with_transparency.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="140" controlTypeID="com.balsamiq.mockups::SubTitle" x="662" y="602" w="-1" h="-1" measuredW="125" measuredH="27" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Powered%20by</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
